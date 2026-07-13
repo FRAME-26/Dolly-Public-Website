@@ -1,0 +1,12 @@
+# Dolly Public Website — .gitignore
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Temp
+*.tmp

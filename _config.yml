@@ -1,0 +1,10 @@
+# Dolly Brand Identity — GitHub Pages Configuration
+title: Dolly — Your AI Film Crew
+description: Brand identity showcase for Dolly, the autonomous AI film crew. AdventureX Hangzhou 2026.
+theme: null
+markdown: kramdown
+exclude:
+  - README.md
+  - LICENSE
+  - Dolly Brand Identity-Version-2.pdf
+  - plan.md
